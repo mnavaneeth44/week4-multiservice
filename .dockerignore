@@ -1,0 +1,5 @@
+.mvn
+target/*.original
+*.md
+.gitignore
+.git
