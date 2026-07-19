@@ -1,4 +1,4 @@
-# Week 4 — Multi-Service Stack with Docker Compose
+Multi-Service Stack with Docker Compose
 
 ## What this is
 A multi-service cloud application orchestrated with Docker Compose,
